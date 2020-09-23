@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity  type="win32" processorArchitecture="*" version="1.0.0.0" name="RogerGilchrist.FontData.FontDataDemo"/>
+<description>This is a demo of FontDataModule</description>
+<dependency>
+<dependentAssembly>type="win32"
+<assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" language="*" processorArchitecture="*"
+publicKeyToken="6595b64144ccf1df"/>
+</dependentAssembly>
+</dependency>
+</assembly>
